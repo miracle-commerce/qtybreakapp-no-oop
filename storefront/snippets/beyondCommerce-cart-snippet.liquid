@@ -1,0 +1,14 @@
+{% assign cartParts = cart | json | split: ',' | first | split: '"' %}
+{% assign tokenIndex = cartParts.size | minus: 1%}
+<script>
+    if(typeof(beyondCommerce) === 'undefined'){
+        var beyondCommerce = {};
+    }
+    if(!beyondCommerce.tieredPricing){
+        beyondCommerce.tieredPricing = {};
+    }
+    if(!beyondCommerce.tieredPricing.cart){
+        beyondCommerce.tieredPricing.cart = {};
+    }
+    beyondCommerce.tieredPricing.cart = {{ cart | json }};
+</script>

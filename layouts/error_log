@@ -1,0 +1,151 @@
+[29-Sep-2020 11:29:18 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 2
+[29-Sep-2020 11:29:18 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 2
+[29-Sep-2020 11:29:39 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 2
+[29-Sep-2020 11:29:39 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 2
+[29-Sep-2020 11:31:00 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:31:00 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:32:03 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:32:03 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:32:43 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:32:43 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:57:37 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:57:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:58:13 America/Boise] PHP Warning:  require_once(./basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:58:13 America/Boise] PHP Fatal error:  require_once(): Failed opening required './basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 3
+[29-Sep-2020 11:58:39 America/Boise] PHP Warning:  require_once(./verify-request.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 4
+[29-Sep-2020 11:58:39 America/Boise] PHP Fatal error:  require_once(): Failed opening required './verify-request.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 4
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 11:59:39 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:01:11 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:03:50 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:04:15 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:37 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 10
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:07:45 America/Boise] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php on line 14
+[29-Sep-2020 12:25:45 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic.php on line 12
+[01-Oct-2020 10:10:17 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:10:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 12
+[01-Oct-2020 10:13:52 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:13:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 12
+[01-Oct-2020 10:14:23 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:14:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 12
+[01-Oct-2020 10:15:27 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:15:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 13
+[01-Oct-2020 10:17:46 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:18:26 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 11
+[01-Oct-2020 10:19:04 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 13
+[01-Oct-2020 10:20:39 America/Boise] PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 13
+[01-Oct-2020 13:56:44 America/Boise] PHP Warning:  A non-numeric value encountered in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 65
+[01-Oct-2020 13:56:52 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 13:57:06 America/Boise] PHP Warning:  A non-numeric value encountered in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 65
+[01-Oct-2020 13:57:36 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 13:59:04 America/Boise] PHP Warning:  A non-numeric value encountered in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 65
+[01-Oct-2020 14:01:52 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 14:03:38 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 14:07:35 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 14:07:35 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 14:12:13 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 15:37:55 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 15:37:55 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 15:45:45 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 15:45:45 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 15:48:47 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 15:48:47 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 15:49:34 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 15:49:34 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 15:49:57 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 15:50:19 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 15:55:33 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 16:00:07 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:00:07 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:26:24 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:26:24 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:29:42 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:29:42 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:31:44 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:31:44 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:32:16 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:32:16 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:32:24 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:32:24 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:32:57 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:32:57 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:34:28 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:34:28 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:35:14 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:35:14 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:36:11 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:36:11 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:36:57 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:36:57 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:39:22 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:39:22 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:40:02 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:40:02 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[01-Oct-2020 16:40:13 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[01-Oct-2020 16:40:40 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 20
+[01-Oct-2020 16:40:40 America/Boise] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 24
+[02-Oct-2020 02:31:12 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[02-Oct-2020 05:12:56 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[02-Oct-2020 05:30:14 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[02-Oct-2020 08:44:25 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[02-Oct-2020 08:46:24 America/Boise] PHP Warning:  Use of undefined constant JWT - assumed 'JWT' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php on line 4
+[02-Oct-2020 10:42:47 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[03-Oct-2020 08:03:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function defind() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic.php:12
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/all-schemes.php(2): require_once()
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic.php on line 12
+[03-Oct-2020 08:03:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function defind() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic.php:12
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/layouts/create-scheme.php(2): require_once()
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic.php on line 12

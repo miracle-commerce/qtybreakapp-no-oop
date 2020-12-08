@@ -1,0 +1,10 @@
+<script>
+    if(typeof(beyondCommerce) === 'undefined'){
+        var beyondCommerce = {};
+    }
+    if(!beyondCommerce.tieredPricing){
+        beyondCommerce.tieredPricing = {};
+    }
+    beyondCommerce.tieredPricing.product = {{ product | json }};
+    beyondCommerce.tieredPricing.currentVariant = {{product.selected_or_first_available_variant | json}};
+</script>

@@ -1,0 +1,378 @@
+[22-Sep-2020 15:15:14 America/Boise] PHP Parse error:  syntax error, unexpected '$params' (T_VARIABLE) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 15
+[22-Sep-2020 15:40:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:40:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:40:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:43:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:44:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:44:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:48:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:48:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:51:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:52:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:53:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:56:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:56:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:56:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[22-Sep-2020 15:56:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:06:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:06:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:08:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:09:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:10:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:11:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 21
+[23-Sep-2020 00:12:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 20
+[23-Sep-2020 00:13:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function http_built_query() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 20
+[23-Sep-2020 00:15:05 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:15:05 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:15:05 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:15:09 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:15:09 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:15:09 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:15:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:15:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[23-Sep-2020 00:15:56 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[23-Sep-2020 00:16:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:16:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[23-Sep-2020 00:16:56 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[23-Sep-2020 00:17:50 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:17:50 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:17:50 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:18:24 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[23-Sep-2020 00:18:24 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:18:24 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:24:28 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[23-Sep-2020 00:24:28 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:24:28 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:25:29 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[23-Sep-2020 00:25:29 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:25:29 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:26:14 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[23-Sep-2020 00:26:14 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 00:26:14 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[23-Sep-2020 11:34:57 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'fregro1_fox0127'@'localhost' (using password: YES) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 7
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 11:35:23 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 11:36:06 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 11:38:08 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 11:39:07 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'fcpses_frb567bd30'@'localhost' (using password: NO) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 7
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Property access is not allowed yet in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  var_dump(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 10
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 18
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  main(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 21
+[23-Sep-2020 12:07:59 America/Boise] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 24
+[23-Sep-2020 12:17:00 America/Boise] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/test-database.php on line 11
+[24-Sep-2020 09:24:43 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[24-Sep-2020 09:24:43 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[24-Sep-2020 09:24:43 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[24-Sep-2020 09:25:13 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[24-Sep-2020 09:25:13 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[24-Sep-2020 09:25:13 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 41
+[24-Sep-2020 11:42:13 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 11:42:13 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 11:42:13 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 12:01:50 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[24-Sep-2020 12:01:50 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 43
+[24-Sep-2020 12:01:50 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 43
+[24-Sep-2020 12:05:16 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 42
+[24-Sep-2020 12:05:16 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 43
+[24-Sep-2020 12:05:16 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 43
+[24-Sep-2020 12:50:59 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 12:50:59 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 12:50:59 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 12:51:24 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 12:51:24 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 12:51:24 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:25:53 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 13:25:53 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:25:53 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:27:53 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 13:27:53 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:27:53 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:29:23 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:29:23 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[24-Sep-2020 13:29:23 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 40
+[24-Sep-2020 13:30:02 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[24-Sep-2020 13:30:02 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[24-Sep-2020 13:30:02 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 00:09:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[25-Sep-2020 00:09:56 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 00:09:56 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 00:58:41 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[25-Sep-2020 00:58:41 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 00:58:41 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:02:36 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[25-Sep-2020 01:02:36 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:02:36 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:03:09 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[25-Sep-2020 01:03:09 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:03:09 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:04:36 America/Boise] PHP Warning:  Use of undefined constant CURL_POST - assumed 'CURL_POST' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 38
+[25-Sep-2020 01:04:36 America/Boise] PHP Warning:  Use of undefined constant CURL_POSTFIELDS - assumed 'CURL_POSTFIELDS' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 01:04:36 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 39
+[25-Sep-2020 12:04:58 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 47
+[25-Sep-2020 12:04:58 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 12:05:32 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 47
+[25-Sep-2020 12:05:32 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 12:05:45 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 47
+[25-Sep-2020 12:05:45 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 12:08:59 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 49
+[25-Sep-2020 12:08:59 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 52
+[25-Sep-2020 12:47:02 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 49
+[25-Sep-2020 12:47:02 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 52
+[25-Sep-2020 12:49:44 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 49
+[25-Sep-2020 12:49:44 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 52
+[25-Sep-2020 12:53:41 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 12:53:41 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 53
+[25-Sep-2020 12:58:34 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 12:58:34 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 53
+[25-Sep-2020 13:02:40 America/Boise] PHP Warning:  Use of undefined constant CURLOPT_RETURNTRANSER - assumed 'CURLOPT_RETURNTRANSER' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 50
+[25-Sep-2020 13:02:40 America/Boise] PHP Warning:  curl_setopt_array(): Array keys must be CURLOPT constants or equivalent integer values in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 53
+[26-Sep-2020 07:50:16 America/Boise] PHP Warning:  require_once(./../basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:50:16 America/Boise] PHP Fatal error:  require_once(): Failed opening required './../basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:51:37 America/Boise] PHP Warning:  require_once(./../basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:51:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required './../basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:55:38 America/Boise] PHP Warning:  require_once(./../basic.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:55:38 America/Boise] PHP Fatal error:  require_once(): Failed opening required './../basic.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 2
+[26-Sep-2020 07:58:43 America/Boise] PHP Warning:  require_once(/basic-modules/get_access_token.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 34
+[26-Sep-2020 07:58:43 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/basic-modules/get_access_token.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php on line 34
+[28-Sep-2020 07:40:40 America/Boise] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:45:15 America/Boise] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:45:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:9
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 9
+[28-Sep-2020 07:46:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:9
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 9
+[28-Sep-2020 07:47:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:10
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 10
+[28-Sep-2020 07:54:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:55:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:55:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:56:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:58:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(37): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 07:59:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:7
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 7
+[28-Sep-2020 08:00:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:8
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 8
+[28-Sep-2020 08:01:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:8
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 8
+[28-Sep-2020 08:02:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function data() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:8
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 8
+[28-Sep-2020 08:47:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:15
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 15
+[28-Sep-2020 08:48:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:15
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 15
+[28-Sep-2020 08:52:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:16
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 16
+[28-Sep-2020 08:56:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:16
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 16
+[28-Sep-2020 08:57:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:16
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 16
+[28-Sep-2020 08:58:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::field_count() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:16
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 16
+[28-Sep-2020 09:00:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_assoc() in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:16
+Stack trace:
+#0 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/generate-token.php(38): registerShop('shpca_9d37c746a...', 'morningfox.mysh...')
+#1 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php on line 16
+[28-Sep-2020 14:47:22 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 15
+[28-Sep-2020 14:49:37 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 15
+[28-Sep-2020 15:00:27 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 15
+[28-Sep-2020 15:30:41 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:30:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php:9) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 26
+[28-Sep-2020 15:32:31 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:32:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php:9) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 26
+[28-Sep-2020 15:32:36 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[28-Sep-2020 15:33:09 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:33:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php:9) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 26
+[28-Sep-2020 15:34:25 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:34:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php:9) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 26
+[28-Sep-2020 15:37:17 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[28-Sep-2020 15:39:17 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:39:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php:9) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 26
+[28-Sep-2020 15:45:03 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[28-Sep-2020 15:45:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/register-shop.php:8) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 25
+[29-Sep-2020 01:15:32 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[29-Sep-2020 01:15:32 America/Boise] PHP Warning:  require_once(basic-modules/get-schemes): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/schemes.php on line 6
+[29-Sep-2020 01:15:32 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'basic-modules/get-schemes' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/schemes.php on line 6
+[29-Sep-2020 01:15:40 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 01:19:54 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 01:21:25 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 01:25:15 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 01:27:51 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[29-Sep-2020 01:28:13 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[29-Sep-2020 01:52:51 America/Boise] PHP Warning:  curl_errno(): supplied resource is not a valid cURL handle resource in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-access-token.php on line 14
+[29-Sep-2020 01:55:57 America/Boise] PHP Warning:  require_once(/basic-modules/get-shop.php): failed to open stream: No such file or directory in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 4
+[29-Sep-2020 01:55:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/basic-modules/get-shop.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 4
+[29-Sep-2020 01:57:23 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 14
+[29-Sep-2020 02:09:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/get-shop.php:3) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/index.php on line 16
+[29-Sep-2020 02:11:25 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 02:11:25 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[29-Sep-2020 02:15:01 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 02:15:15 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[29-Sep-2020 02:24:11 America/Boise] PHP Warning:  Use of undefined constant APPSECRET - assumed 'APPSECRET' (this will throw an Error in a future version of PHP) in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 8
+[01-Oct-2020 16:29:22 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/verify-request.php on line 9
+[05-Oct-2020 11:23:38 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/functions.php on line 70
+[05-Oct-2020 11:37:12 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/functions.php on line 70
+[05-Oct-2020 11:41:14 America/Boise] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/functions.php on line 70

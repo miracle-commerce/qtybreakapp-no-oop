@@ -1,0 +1,19 @@
+[30-Sep-2020 12:40:33 America/Boise] PHP Warning:  mysqli::query(): Empty query in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 10
+[30-Sep-2020 13:03:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 13
+[30-Sep-2020 13:40:06 America/Boise] PHP Warning:  Illegal string offset 'shopid' in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 17
+[30-Sep-2020 13:40:06 America/Boise] PHP Warning:  Illegal string offset 'schemeid' in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 17
+[30-Sep-2020 13:47:23 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function createTierValuesSql(), 1 passed and exactly 2 expected in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php:16
+Stack trace:
+#0 [internal function]: createTierValuesSql(Array)
+#1 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php(22): array_map('createTierValue...', Array)
+#2 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 16
+[30-Sep-2020 13:48:54 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function createTierValuesSql(), 1 passed and exactly 2 expected in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php:16
+Stack trace:
+#0 [internal function]: createTierValuesSql(Array)
+#1 /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php(24): array_map('createTierValue...', Array)
+#2 {main}
+  thrown in /home1/freegro1/public_html/beyondcommerce/customapp/qtybreak-discount/basic-modules/scheme/create.php on line 16

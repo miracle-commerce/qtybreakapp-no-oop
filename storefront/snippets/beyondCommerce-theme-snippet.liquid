@@ -1,0 +1,16 @@
+<script>
+  if(typeof(beyondCommerce) === 'undefined'){
+    beyondCommerce = {};
+  }
+  if(!beyondCommerce.tieredPricing){
+      beyondCommerce.tieredPricing = {};
+  }
+
+  beyondCommerce.tieredPricing.shop_url  = '{{shop.permanent_domain}}';
+  beyondCommerce.tieredPricing.moneyFormat = '{{ shop.money_format }}';
+  beyondCommerce.tieredPricing.template_name = "{{template.name}}" ;
+  beyondCommerce.tieredPricing.cart = {{cart | json }};
+  
+</script>
+<script src="https://beyondcommerce.co/customapp/qtybreak-discount/storefront/bcapp-qtybreak.js"></script>
+<link rel="stylesheet" href="https://beyondcommerce.co/customapp/qtybreak-discount/storefront/bcapp-qtybreak.css">

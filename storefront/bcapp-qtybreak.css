@@ -1,0 +1,41 @@
+/* Styles for Tiered Pricing Table. */
+.bcapp-pricing-table-container{
+    margin-bottom: 20px; 
+}
+.bc-tier-pricing-table{ 
+    border: 1px solid #000; 
+    display: inline-block; 
+    max-width: 100%;
+}
+.bc-tier-pricing-table .table-header{
+    background-color: #f0f0f0;
+    font-size: 16px; 
+    font-weight: 600;
+    padding: 10px;
+}
+.bc-tier-pricing-table .table-body{
+    font-size: 16px; 
+    padding: 10px;
+}
+.bc-tier-pricing-table .table-body .tier-content{
+    font-size: 16px;
+    line-height: 1.5; 
+    margin: 0px;
+    padding: 0px;  
+}
+
+/* Styles for Cart Template */
+.bcapp-cart-item-price .item_final_price{
+    font-size: 18px; 
+    font-weight: 600;
+}
+
+.bcapp-cart-item-line-price .item_line_final_price{
+    font-size: 18px; 
+    font-weight: 600;
+}
+
+.bcapp-cart-total{
+    font-size: 18px; 
+    font-weight: 600;
+}
