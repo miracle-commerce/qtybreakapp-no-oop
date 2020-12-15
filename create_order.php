@@ -40,7 +40,7 @@ if(isset($_POST['shop_url'])){
             //Create single line_item object. 
             $single_line_item = array("variant_id"=>intval($line_item["variant_id"]), "quantity"=>$line_item_quantity);
             if(!empty($line_item["properties"])){
-                $single_line_item["properties"] = array($line_item["properties"]);
+                $single_line_item["properties"] = $line_item["properties"];
             }
             if(isset($item_level_discount)){
                 $single_line_item["applied_discount"] = $item_level_discount;

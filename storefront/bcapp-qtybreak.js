@@ -252,11 +252,25 @@ beyondCommerce.tieredPricing.cartInit = function(cart){
                 variant_id: item.variant_id, 
                 quantity: item.quantity, 
                 variant_id: item.variant_id, 
-                properties: item.properties,
                 final_price: item.original_price,
                 final_line_price: item.original_line_price,
                 tierId: ''
             };
+            console.log(item.properties);
+            // Make properties of line item to object array(key:'name':'properties key', 'value':'properties value')
+            var line_item_properties = [];
+            for (var property in item.properties){
+                if(item.properties[property]){
+                    var singleItemProperty = {};
+                    singleItemProperty["name"] = property; 
+                    singleItemProperty["value"] = item.properties[property];
+                    line_item_properties.push(singleItemProperty);
+                }
+            }
+
+            // Check if line item properties is exists and add it to line item object
+            line_item.properties = line_item_properties
+            
         if(matchedTier){
             line_item.tierId = matchedTier.id;
             if(matchedTier.type == "fixed_amount"){
@@ -295,9 +309,9 @@ beyondCommerce.tieredPricing.cartInit = function(cart){
                 $("[name='checkout']").html("Checkout Progress...");
             },
             success: function(response){  
-                // if(response.invoice_url){
-                //     window.location.href = response.invoice_url;
-                // }
+                if(response.invoice_url){
+                    window.location.href = response.invoice_url;
+                }
             }
         })
     })
