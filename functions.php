@@ -1,6 +1,18 @@
 <?php
 // Request API
 require_once("basic.php");
+// function get all rows from database
+function getAllRows($result){
+    $row_count = $result->num_rows;
+    $rows = array();
+    while ($row_count){
+        $row_count-= 1;
+        $row = $result->fetch_array(MYSQLI_ASSOC);
+        array_push($rows, $row);
+    }
+    return $rows;
+};
+
 function requestRestAPI($access_token, $shop, $method, $api_version, $endpoint, $query_params=array()){
     // Params;
     // $shop is the admin url of Shop. We can get this from uri by "GET" method such as "$_GET['shop']"
@@ -192,7 +204,8 @@ function getSchemes($shop_url){
     $scheme_sql = "SELECT * FROM ".SCHEMES_TABLE." WHERE shop_url='".$shop_url."' AND activate=1 ORDER BY updatedate DESC";
     $scheme_result = $bcapp_db_connection->query($scheme_sql);
     if($scheme_result){
-        return $scheme_result->fetch_all(MYSQLI_ASSOC);    
+        $schemesData = getAllRows($scheme_result);
+        return $schemesData;
     } else{
         return false;
     }
@@ -203,7 +216,7 @@ function getSingleScheme($sid, $conn){
     $sql = "SELECT * FROM schemes WHERE id = $sid";
     $result = $conn->query($sql);
     if($result){
-        $scheme = $result->fetch_all(MYSQLI_ASSOC);
+        $scheme = getAllRows($result);
         if(count($scheme)){
             return $scheme[0];
         }else{
@@ -251,7 +264,7 @@ function getTieres($sid){
     $sql = "SELECT id, quantity, amount, type FROM ".TIERES_TABLE." WHERE schemeid=$sid";
     $tieres_result = $bcapp_db_connection->query($sql);
     if($tieres_result){
-        return $tieres_result->fetch_all(MYSQLI_ASSOC);
+        return getAllRows($tieres_result);
     }else{
         echo("Error description:".$bcapp_db_connection->error);
     }
@@ -261,7 +274,7 @@ function getTierById($tid){
     $sql = "SELECT quantity, amount, type FROM ".TIERES_TABLE." WHERE id=$tid";
     $tier_result = $bcapp_db_connection->query($sql); 
     if($tier_result){
-        return $tier_result->fetch_all(MYSQLI_ASSOC);
+        return getAllRows($tier_result);
     }else{
         return false; 
     }
@@ -314,7 +327,7 @@ function getProductsBySid($sid, $conn){
     $sql = "SELECT pid, title, image_url, price FROM Products WHERE sid=$sid";
     $products_result = $conn->query($sql);
     if($products_result){
-        $products = $products_result->fetch_all(MYSQLI_ASSOC);
+        $products = getAllRows($products_result);
             return $products;
     }else{
         echo ("Error descripion:".$conn->error);
@@ -327,7 +340,7 @@ function getProductsIdsBySid($sid, $conn){
     $sql = "SELECT pid FROM Products WHERE sid=$sid";
     $products_result = $conn->query($sql);
     if($products_result){
-        $products = $products_result->fetch_all(MYSQLI_ASSOC);
+        $products = getAllRows($products_result);
         foreach($products as $product){
             array_push($productIds, $product['pid']);
         }
@@ -342,7 +355,7 @@ function getAllRegisteredProducts($shop, $conn){
     $sql = "SELECT * FROM Products WHERE shopurl='$shop' AND exist_products == true";
     $products_result = $conn->query($sql);
     if($products_result){
-        $products = $tieres_result->fetch_all(MYSQLI_ASSOC);
+        $products = getAllRows($products_result);
         if($conn->field_count() > 0 ){
             return $products;
         } else{
