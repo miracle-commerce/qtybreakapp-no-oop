@@ -1,1 +1,1 @@
-Header always unset X-Frame-Options env=HTTPS;
+Header always unset X-Frame-Options

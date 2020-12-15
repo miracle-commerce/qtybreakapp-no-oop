@@ -20,7 +20,7 @@ searchParams.forEach(function(param, index){
 
 // APP bridge
 // Initialize App bridge
-const AppRoot = "https://beyondcommerce.co/customapp/qtybreak-discount";
+const AppRoot = "https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount";
 var AppBridge = window['app-bridge'];
 console.log(AppBridge);
 var createApp = AppBridge.createApp;
@@ -28,7 +28,7 @@ var actions = AppBridge.actions;
 var Redirect = actions.Redirect;
 var Loading = actions.Loading;
 var apiKey = '167abb701f1d34b021dd1fc2098a82e0';
-var redirectUri = 'https://beyondcommerce.co/customapp/qtybreak-discount/index.php';
+var redirectUri = 'https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount/index.php';
 var app = createApp({
         apiKey: apiKey,
         shopOrigin: shop_url
@@ -44,7 +44,7 @@ if (window.top == window.self) {
     //Redirect.create(app).dispatch(Redirect.Action.REMOTE, permissionUrl);
     $(".add-tier-button").on('click', function(e){
         e.preventDefault();
-        redirect.dispatch(Redirect.Action.APP, '/customapp/qtybreak-discount/layouts/create-scheme.php');
+        redirect.dispatch(Redirect.Action.APP, '/ShopifyApps/custom-qtybreak-discount/layouts/create-scheme.php');
     });
 }
 
@@ -130,11 +130,11 @@ function renderSelectProductsLayout(response){
 
             var newSingleProductEl = `<div class="single-product-selector_wrapper" 
                                                 data-product-id="${productId}" 
-                                                data-img="${productImg? productImg : 'https://beyondcommerce.co/customapp/qtybreak-discount/assets/placeholder.png'}"
+                                                data-img="${productImg? productImg : 'https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount/assets/placeholder.png'}"
                                                 data-title="${productTitle}"
                                                 data-price="${productPrice}">
                                             <div class="single-product-img">
-                                                <img src="${productImg? productImg : 'https://beyondcommerce.co/customapp/qtybreak-discount/assets/placeholder.png'}" alt="" class="single-product-image">
+                                                <img src="${productImg? productImg : 'https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount/assets/placeholder.png'}" alt="" class="single-product-image">
                                             </div>
                                             <div class="single-product-title">${productTitle}</div>
                                             <div class="single-product-price">\$${productPrice}</div>
@@ -340,7 +340,7 @@ $("#create-scheme").on('submit', function(e){
         success: function(response){
             console.log(response);
             $(".page-loader-wrapper").hide();
-            redirect.dispatch(Redirect.Action.APP, '/customapp/qtybreak-discount/index.php');
+            redirect.dispatch(Redirect.Action.APP, '/ShopifyApps/custom-qtybreak-discount/index.php');
         }
     });
 });
@@ -358,7 +358,7 @@ $("#update-scheme").on('submit', function(e){
         },
         success: function(response){
             console.log(response);
-            redirect.dispatch(Redirect.Action.APP, '/customapp/qtybreak-discount/index.php');
+            redirect.dispatch(Redirect.Action.APP, '/ShopifyApps/custom-qtybreak-discount/index.php');
         }
     })
 })

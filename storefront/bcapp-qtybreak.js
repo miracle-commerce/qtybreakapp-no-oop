@@ -288,16 +288,16 @@ beyondCommerce.tieredPricing.cartInit = function(cart){
         e.preventDefault();
         $.ajax({
             type: "POST", 
-            url: "https://beyondcommerce.co/customapp/qtybreak-discount/create_order.php",
+            url: "https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount/create_order.php",
             data: orderData,
             dataType: "json",
             beforeSend: function(){
                 $("[name='checkout']").html("Checkout Progress...");
             },
-            success: function(response){
-                if(response.invoice_url){
-                    window.location.href = response.invoice_url;
-                }
+            success: function(response){  
+                // if(response.invoice_url){
+                //     window.location.href = response.invoice_url;
+                // }
             }
         })
     })
@@ -306,7 +306,7 @@ $(document).ready(function(){
     if(beyondCommerce.tieredPricing.shop_url){
         $.ajax({
             type:"POST",
-            url:"https://beyondcommerce.co/customapp/qtybreak-discount/storefront/getqbobject.php",
+            url:"https://getcreativehands.com/ShopifyApps/custom-qtybreak-discount/storefront/getqbobject.php",
             data:{
                 "shop": beyondCommerce.tieredPricing.shop_url
             },
