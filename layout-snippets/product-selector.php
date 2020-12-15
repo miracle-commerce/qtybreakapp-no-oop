@@ -3,12 +3,13 @@ $products = $products;
 $enableNextPage = $products["data"]["products"]["pageInfo"]["hasNextPage"];
 $enablePrevPage = $products["data"]["products"]["pageInfo"]["hasPreviousPage"];
 $products = $products["data"]["products"]["edges"];
+
 if($enableNextPage){
-    $nextPageCursor = $products[array_key_last($products)]["cursor"];
+    $nextPageCursor = $products[count($products) - 1]["cursor"];
 }
 
 if($enablePrevPage){
-    $prevPageCursor = $products[array_key_first($products)]["cursor"];
+    $prevPageCursor = $products[0]["cursor"];
 }
 
 if(isset($schemeProducts) && count($schemeProducts) > 0){
