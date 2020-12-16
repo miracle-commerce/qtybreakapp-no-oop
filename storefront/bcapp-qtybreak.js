@@ -256,7 +256,6 @@ beyondCommerce.tieredPricing.cartInit = function(cart){
                 final_line_price: item.original_line_price,
                 tierId: ''
             };
-            console.log(item.properties);
             // Make properties of line item to object array(key:'name':'properties key', 'value':'properties value')
             var line_item_properties = [];
             for (var property in item.properties){
